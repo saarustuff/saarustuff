@@ -48,20 +48,21 @@
 
 These are some of the technologies and tools that I work with:
 
-<table style="width:100%">
+![header](https://user-images.githubusercontent.com/86642293/221352455-b8b48f25-7c4c-4f16-879d-86f06f52b9d1.png)
+
+<table style="width:100%" align="center">
  <tr>
     <th>Programming Languages</th>
     <td> 
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />   
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />     
    </td>
   </tr>
   <tr>
     <th>Frontend</th>
     <td>
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-squre&logo=tailwind-css&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-squre&logo=tailwind-css&logoColor=Crayola"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-squre&logo=bootstrap&logoColor=Crayola"/>
     </td>
   </tr>
@@ -73,7 +74,7 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Hosting/SaaS/PaaS</th>
+    <th>Hosting</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
@@ -110,25 +111,12 @@ These are some of the technologies and tools that I work with:
    </tr
 </table>
 
-
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
-</p>
-
 ---
 
-#### :octocat:  My Github Stats
+#### :octocat:  My Github Stats   
 
-<p align="center">
-  <a href="https://github.com/saarustuff">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&theme=algolia" />
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/saarustuff">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarustuff&theme=algolia#version3" />
-</a>
-</p>
+| <a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shariyar's github stats" /></a> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarustuff&show_icons=true&locale=en&layout=compact" alt="saarustuff" /></p>|
+| ------------- | ------------- |
 
 
 ---
