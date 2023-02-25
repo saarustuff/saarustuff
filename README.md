@@ -8,7 +8,8 @@
 ## 📫 Reach me: shariyaralam21@gmail.com 
 <br>
   
-## 🌱 Connect with me:    <a href="https://www.linkedin.com/in/saarustuff//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarustuff" height="30" width="30"></a> <a href="https://fb.com/saarustuff3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saarustuff3" height="30" width="30"></a> <a href="https://instagram.com/saarustuff3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarustuff3" height="30" width="30"></a>
+## 🌱 Connect with me:    <a href="https://www.linkedin.com/in/saarustuff//" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="saarustuff"></a> <a href="https://fb.com/saarustuff3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saarustuff3" height="25" width="25"></a> <a href="https://instagram.com/saarustuff3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarustuff3" height="25" width="25"></a>
+
 
   <br> 
 <p><a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Shariyar's github stats" /></a></p>
@@ -20,7 +21,7 @@
   Visitors<br>
   <img src="https://profile-counter.glitch.me/saarustuff/count.svg" />
 </p>
-    <div align="center">
+    <div align="left">
  
   ![Snake animation](https://github.com/sabbirzzaman/sabbirzzaman/blob/output/github-contribution-grid-snake.svg)
   
