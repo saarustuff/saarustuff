@@ -12,7 +12,7 @@
 
 
   <br> 
-<p><a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Shariyar's github stats" /></a></p>
+<p><a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_year_commits=true&theme=github_dark&hide_border=true" alt="Shariyar's github stats" /></a></p>
    
 
    # 🐾 Fun fact: Brain is forever a nerd!
