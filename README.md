@@ -22,16 +22,6 @@
 - 👯 I’m looking to collaborate and work on new Open Source projects
 - 📫 How to reach me: shariyaralam21@gmail.com
 - ⚡ Fun fact: Brain is forever a nerd
-
-  <p align="center">
-    <a title="LinkedIn" href="https://www.linkedin.com/in/saarustuff/">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
-    </a>
-  
-    <a title="Email" href="mailto:shahriyar.alam.99@gmail.com">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-    </a>
-   </p>
 </p>
 
 <br>
@@ -46,9 +36,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/saarustuff"/>
   </a>
 </p>
-
-
-<p align="center"> <img src="https://github.com/saarustuff" alt="profile-views"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saarustuff&label=Profile%20views&color=0e75b6&style=flat" alt="saarustuff" /> </p>
 
 
 
@@ -70,9 +58,11 @@ These are some of the technologies and tools that I work with:
    </td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frontend</th>
     <td>
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-squre&logo=tailwind-css&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-squre&logo=bootstrap&logoColor=Crayola"/>
     </td>
   </tr>
   <tr>
@@ -90,7 +80,7 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Automate, Deploy, Platform & Tools</th>
+    <th>Deploy, Platform & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
@@ -110,6 +100,14 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
   </tr>
+  <tr>
+    <th>Software</th>
+    <td>
+     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> 
+     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/>
+    </td>
+   </tr
 </table>
 
 
