@@ -1,56 +1,18 @@
 <samp>
-<p align="center">
-  <h1 align="center">Hey there! 👋  </h1>
-</p>
 
-
-<p align="center">
-  <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
-  <br>
-  <h5 align="center">console.log('Forever Explorer');</h5>
-</p>
-
-<p align="center">
-  <img src="assets/Banner.png" alt="Banner"/>
-</p>
-
-
+![saarustuff](https://user-images.githubusercontent.com/86642293/221359416-fc241769-c0f7-490e-885e-69092ff08012.jpg)
+--
 <br>
+<p>Hey, I'm Shariyar Alam - a front-end web developer with a knack for learning new languages and frameworks. I'm also passionate about design, especially when it comes to creating beautiful and intuitive user interfaces. Let's collaborate and bring our ideas to life! </p>
 
-- 🔭 Currently working on React Framework; prior to this, I professionally was working on MERN Stack
-- 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving
-- 👯 I’m looking to collaborate and work on new Open Source projects
-- 📫 How to reach me: shariyaralam21@gmail.com
-- ⚡ Fun fact: Brain is forever a nerd
+- 📫 Reach me: shariyaralam21@gmail.com
+- ⚡ Fun fact: Brain is forever a nerd!
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/saarustuff" target="_blank">
-    <img src="https://img.shields.io/github/followers/saarustuff?label=Follow%20Me&style=social"/>
-  </a>
-
-
-  <a href="https://www.linkedin.com/in/saarustuff/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/saarustuff"/>
-  </a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saarustuff&label=Profile%20views&color=0e75b6&style=flat" alt="saarustuff" /> </p>
-
-
-
-<br>
-
----
-
-#### ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
+# ⚡ Skills and Experience
 ![header](https://user-images.githubusercontent.com/86642293/221352455-b8b48f25-7c4c-4f16-879d-86f06f52b9d1.png)
-
-<table style="width:100%" align="center">
+<br>
+<table style="" align="center">
  <tr>
     <th>Programming Languages</th>
     <td> 
@@ -81,7 +43,7 @@ These are some of the technologies and tools that I work with:
     </td>
   </tr>
   <tr>
-    <th>Deploy, Platform & Tools</th>
+    <th>Deploy Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
@@ -109,16 +71,16 @@ These are some of the technologies and tools that I work with:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/>
     </td>
    </tr
-</table>
-
----
-
-#### :octocat:  My Github Stats   
-
-| <a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shariyar's github stats" /></a> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarustuff&show_icons=true&locale=en&layout=compact" alt="saarustuff" /></p>|
-| ------------- | ------------- |
+</table>  
+    
+<h1>⚡ My Github Stats<h1/>  
+ <a href="https://github.com/saarustuff/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saarustuff&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shariyar's github stats" /></a>  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saarustuff&show_icons=true&locale=en&layout=compact" alt="saarustuff" /></p>
 
 
----
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/saarustuff/count.svg" />
+</p>
 
 </samp>
